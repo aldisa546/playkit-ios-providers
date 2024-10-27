@@ -12,7 +12,7 @@ let package = Package(
         .package(url: "https://github.com/yahoojapan/SwiftyXMLParser.git", from: "5.6.0"),
         .package(name: "PlayKit",
                  url: "https://github.com/kaltura/playkit-ios.git",
-                 .upToNextMinor(from: "3.30.0")),
+                 .upToNextMinor(from: "3.31.0")),
     ],
     targets: [.target(name: "PlayKitProviders",
                       dependencies: [
