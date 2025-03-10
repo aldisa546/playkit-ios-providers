@@ -1,7 +1,4 @@
 
-suffix = '.0000'   # Dev mode
-# suffix = ''       # Release
-
 Pod::Spec.new do |s|
   
   s.name             = 'PlayKitProvidersCustomized'
