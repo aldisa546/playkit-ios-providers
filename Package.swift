@@ -16,7 +16,6 @@ let package = Package(
     targets: [.target(name: "PlayKitProviders",
                       dependencies: [
                         "SwiftyXMLParser",
-                        .product(name: "AnalyticsCommon", package: "PlayKitCustomized"),
                       ],
                       path: "Sources/")
     ]
