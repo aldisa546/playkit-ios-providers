@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
   
   s.name             = 'PlayKitProvidersCustomized'
-  s.version          = '1.19.2' + suffix
+  s.version          = '1.19.3'
   s.summary          = 'PlayKitProvidersCustomized -- Providers framework for iOS'
   s.homepage         = 'https://github.com/aldisa546/playkit-ios-providers'
   s.license          = { :type => 'AGPLv3', :file => 'LICENSE' }
