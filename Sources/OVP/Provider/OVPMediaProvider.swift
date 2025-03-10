@@ -11,7 +11,7 @@
 import UIKit
 import SwiftyXMLParser
 import KalturaNetKit
-import PlayKit
+import PlayKitCustomized
 
 public enum OVPMediaProviderError: PKError {
     case invalidParam(paramName: String)

@@ -10,7 +10,7 @@
 
 //
 //  OTTMediaFile.swift
-//  PlayKit
+//  PlayKitCustomized
 //
 //  Created by Nilit Danan on 8/20/18.
 //

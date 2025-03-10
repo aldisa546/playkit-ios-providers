@@ -11,7 +11,7 @@
 import UIKit
 import kSwiftyJSON
 import KalturaNetKit
-import PlayKit
+import PlayKitCustomized
 
 extension KalturaRequestBuilder {
     

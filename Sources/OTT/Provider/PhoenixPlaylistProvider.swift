@@ -11,7 +11,7 @@
 
 import Foundation
 import KalturaNetKit
-import PlayKit
+import PlayKitCustomized
 
 @objc public class PhoenixPlaylistProvider: BasicProvider, PlaylistProvider {
     

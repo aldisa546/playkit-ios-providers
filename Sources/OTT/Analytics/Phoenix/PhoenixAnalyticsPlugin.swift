@@ -10,7 +10,7 @@
 
 import UIKit
 import KalturaNetKit
-import PlayKit
+import PlayKitCustomized
 
 public class PhoenixAnalyticsPlugin: BaseOTTAnalyticsPlugin {
     

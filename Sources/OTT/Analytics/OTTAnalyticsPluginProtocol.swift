@@ -10,7 +10,7 @@
 
 import Foundation
 import KalturaNetKit
-import PlayKit
+import PlayKitCustomized
 
 #if canImport(AnalyticsCommon)
     import AnalyticsCommon

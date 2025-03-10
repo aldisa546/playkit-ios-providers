@@ -18,7 +18,7 @@
 
 import Foundation
 import kSwiftyJSON
-import PlayKit
+import PlayKitCustomized
 
 enum OVPRuleActionType: Int {
     case block = 1

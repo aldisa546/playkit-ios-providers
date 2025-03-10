@@ -9,7 +9,7 @@
 // ===================================================================================================
 
 import UIKit
-import PlayKit
+import PlayKitCustomized
 
 /// OTT Event
 public class OttEvent: PKEvent {

@@ -9,7 +9,7 @@
 // ===================================================================================================
 
 import Foundation
-import PlayKit
+import PlayKitCustomized
 
 class FormatsHelper {
 
